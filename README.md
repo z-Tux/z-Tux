@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @z-Tux
 - 👀 I’m interested in HTML, CSS, JS and Java
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on nothing now
 - 📫 How to reach me on zakariya.heus@gmail.com
 
 <!---
